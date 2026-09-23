@@ -15,14 +15,14 @@ A ideia foi criar um sistema simples para praticar os conceitos básicos da ling
 
 Durante o projeto, coloquei em prática:
 
-* Listas e dicionários
-* Funções
-* `if`, `elif` e `else`
-* Laços `for`
-* `input()`
-* `try/except`
-* Manipulação de strings
-* Importação de módulos
+Listas e dicionários
+Funções
+if, elif e else
+Laços `for
+input()
+try/except
+Manipulação de strings
+Importação de módulos
 
 ## 🚀 Próximos passos
 
