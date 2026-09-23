@@ -21,8 +21,8 @@ Durante o projeto, coloquei em prática:
 * Laços `for`
 * `input()`
 * `try/except`
-* Manipulação de strings
-* Importação de módulos
+* `Manipulação de strings`
+* `Importação de módulos`
 
 ## 🚀 Próximos passos
 
